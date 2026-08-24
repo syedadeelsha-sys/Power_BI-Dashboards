@@ -26,9 +26,10 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 [📘 **View Full Project 1 Details (README)**]( /Data_Jobs_v1/README.md)
 
 
+
 ## 📈 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus
 
-![Data Jobs Dashboard 2.0](/images/Project2_Page1.png)
+![Data Jobs Dashboard 2.0](/images/Project2_Page2.png)
 
 
 **Key Power BI Skills Utilized (demonstrating progression):**
@@ -44,8 +45,11 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * ✨ Report Performance Considerations
 
 
-[📘 **View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
+[📘 **View Full Project 2 Details (README)**]( /Data_Jobs_v2/README.md)
 
 ## About This Portfolio 
+
+Each dashboard linked above has its own detailed `README.md` file within its responsive project folder. These offer deeper insights into the project observation , data , sources , specific Power BI techinque employed , and a closer look at the dashboard build.
+
 
 Each dashboard linked above has its own detailed `README.md` file within its responsive project folder. These offer deeper insights into the project observation , data , sources , specific Power BI techinque employed , and a closer look at the dashboard build.
