@@ -70,6 +70,25 @@ An interactive Hospital Management Dashboard developed in Microsoft Power BI to 
 
 [📘 **View Full Project 3 Details (README)**](/Hospital_Management/README.md)
 
+## 📊 Indian Sales Analytics Dashboard
+
+![Indian Sales Dashboard](/Images/project4_page1.png)
+
+An interactive Sales Analytics Dashboard developed in Microsoft Power BI to analyze sales performance across products, states, channels, and time.
+
+**Key Power BI Skills Utilized:**
+* 🎨 Dashboard Layout & Design
+* 🧮 Advanced DAX Measures
+* 🔄 Filter Context & Context Modification
+* 🏆 Dynamic Ranking with RANKX
+* 🔗 Data Modeling
+* 📊 Interactive Data Visualization
+* 🎚️ Interactive Slicers & Filtering
+* 📈 Sales Trend Analysis
+* 📊 Product, State & Channel Analysis
+
+[📘 **View Full Project 4 Details (README)**](Indian_Sales_Dasboard/README.md)
+
 
 
 ## About This Portfolio 
