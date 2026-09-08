@@ -47,6 +47,38 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 [📘 **View Full Project 1 Details (README)**]( /Data_Jobs_v2/README.md)
 
+## 🏥 Hospital Management Dashboard
+
+![Hospital Dashboard](/Images/hospital_management_dashboard.png)
+
+An interactive Hospital Management Dashboard developed in Microsoft Power BI to analyze hospital revenue, appointments, treatments, patient demographics, payment methods, and appointment status.
+
+**Key Power BI Skills Utilized:**
+
+* 🎨 Dashboard Layout & Design
+* 📊 KPI Development
+* 🧮 DAX Measures
+* 🔗 Data Modeling
+* 📈 Interactive Data Visualization
+* 🎚️ Interactive Slicers & Filtering
+* 🔄 Cross-Filtering
+* 📅 Date Range Analysis
+* 📊 Treatment & Revenue Analysis
+
+[📘 **View Full Project 3 Details (README)**](/Hospital_Management/README.md)
+
+---
+
+# 🛠️ Tools & Technologies
+
+* Microsoft Power BI
+* DAX
+* Power Query
+* Data Modeling
+* Data Visualization
+* Excel / CSV Data
+
+
 ## About This Portfolio 
 
 Each dashboard linked above has its own detailed `README.md` file within its responsive project folder. These offer deeper insights into the project observation , data , sources , specific Power BI techinque employed , and a closer look at the dashboard build.
