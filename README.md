@@ -49,7 +49,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## 🏥 Hospital Management Dashboard
 
-![Hospital Dashboard](/Images/hospital_management_dashboard.png)
+![Hospital Dashboard](/Images/hospital_management_dashborad.png)
 
 An interactive Hospital Management Dashboard developed in Microsoft Power BI to analyze hospital revenue, appointments, treatments, patient demographics, payment methods, and appointment status.
 
