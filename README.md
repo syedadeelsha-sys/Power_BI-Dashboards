@@ -8,7 +8,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## 📈 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs DB GIF](/images/Project1_Page1.png)
+![Dashboard Page 1](/Images/project1_page1.png)
 
  **Key Power BI Skills Utilized:**
 * 🎨 Dashboard Layout & Design
@@ -26,9 +26,12 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 [📘 **View Full Project 1 Details (README)**]( /Data_Jobs_v1/README.md)
 
 
-## 📈 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus
+
+## 📈 Data Jobs Dashboard 2.0 V2 - Single-Page Focus
+
 
 ![Data Jobs Dashboard 2.0](/images/Project2_Page2.png)
+
 
 
 **Key Power BI Skills Utilized (demonstrating progression):**
@@ -46,6 +49,32 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 [📘 **View Full Project 2 Details (README)**]( /Data_Jobs_v2/README.md)
 
+
+## 🏥 Hospital Management Dashboard
+
+![Hospital Dashboard](/Images/project3_page1.png)
+
+An interactive Hospital Management Dashboard developed in Microsoft Power BI to analyze hospital revenue, appointments, treatments, patient demographics, payment methods, and appointment status.
+
+**Key Power BI Skills Utilized:**
+
+* 🎨 Dashboard Layout & Design
+* 📊 KPI Development
+* 🧮 DAX Measures
+* 🔗 Data Modeling
+* 📈 Interactive Data Visualization
+* 🎚️ Interactive Slicers & Filtering
+* 🔄 Cross-Filtering
+* 📅 Date Range Analysis
+* 📊 Treatment & Revenue Analysis
+
+[📘 **View Full Project 3 Details (README)**](/Hospital_Management/README.md)
+
+
+
 ## About This Portfolio 
 
 Each dashboard linked above has its own detailed `README.md` file within its responsive project folder. These offer deeper insights into the project observation , data , sources , specific Power BI techinque employed , and a closer look at the dashboard build.
+
+
+
